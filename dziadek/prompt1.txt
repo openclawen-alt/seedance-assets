@@ -1,0 +1,88 @@
+Use @dziadek.png as identity reference for STANISŁAW throughout all 5
+seconds — match his face, scar above left eyebrow, silver hair, stubble,
+build, and prison uniform exactly. Use @prison.png as environment and
+lighting reference for the prison common room interior — match the
+green walls, barred windows, fluorescent lighting, and overall mood
+exactly. Use @guard.png as identity and uniform reference for the
+PRISON GUARD — match Polish Służba Więzienna navy uniform with peaked
+cap, shoulder patches, and rubber-bullet shotgun exactly. The guard's
+face does not need to be identical (he is a background character), but
+the uniform, weapon, and overall silhouette must match.
+
+[Duration: 5s | Aspect: 9:16]
+
+SUBJECT: STANISŁAW (identity from @dziadek.png) — 75-year-old Polish
+man, 178cm wiry build, weathered face with vertical scar above left
+eyebrow, short silver-gray hair, 3-day silver stubble, ash-gray prison
+sweatshirt and drelich trousers, wooden clogs, faded Polish prison
+tattoos on left forearm. He moves with economy of decades of self-
+control, NOT youthful speed — believable 75-year-old hardness, not
+action-hero athleticism. He holds a red-gold Polish "Delicje
+Szampańskie" biscuit package in his LEFT hand throughout the entire 5
+seconds without exception.
+
+SUPPORTING: Three Polish male inmates mid-30s in matching ash-gray
+prison sweatshirts (one shaved head, one dark short hair, one bearded).
+One Polish prison guard mid-40s (identity from @guard.png) in dark
+navy Służba Więzienna uniform with peaked cap, appears at doorway in
+second 4, raises non-lethal rubber-bullet shotgun.
+
+ACTION (precise timing):
+- 0.0–0.5s: Stanisław stands up from communal table with Delicje
+  package locked in his left hand, three inmates rising around him in
+  triangular formation, calm composed expression.
+- 0.5–1.5s: Stanisław's right elbow drives into throat of inmate #1
+  (shaved head), that inmate's head snaps back violently, bingo tiles
+  explode outward from impact on table.
+- 1.5–2.5s: Inmate #1 flies backward across table while Stanisław
+  pivots and drives right knee into ribs of inmate #2 (dark short
+  hair), who doubles over in silent agony.
+- 2.5–3.5s: Stanisław's right hand grips back of inmate #3's head
+  (bearded), slams face down onto table surface, bingo tiles scatter
+  violently across the room.
+- 3.5–4.3s: Guard appears at doorway, raises rubber-bullet shotgun to
+  shoulder, shouts "STAĆ!" in Polish, Stanisław stands tall over 3
+  fallen inmates on floor with Delicje package still locked in his
+  left hand.
+- 4.3–5.0s: Rubber bullet flies through air, impacts concrete wall
+  20cm behind Stanisław, concrete dust burst, Stanisław unflinching,
+  looking calmly toward the guard. Cut to black.
+
+ENVIRONMENT (from @prison.png): Polish prison common room, concrete
+walls painted institutional pale green to chest height with cream
+above, narrow barred windows with one hard diagonal afternoon sunbeam
+cutting through cigarette dust haze, flickering fluorescent overhead
+lights, plastic stools welded to floor, long communal table with
+scattered bingo tiles, 2026 wall calendar with crossed-off days, damp
+stains in corners.
+
+CAMERA: RED Komodo, Zeiss Supreme 24mm T1.5, handheld with subtle
+operator tremor, eye-level, one continuous take with whip-pans
+following action — whip-pan left for elbow strike at 1.0s, whip-pan
+right for knee strike at 2.0s, push-in for face-slam at 3.0s, locked
+medium-wide for guard at 4.0s, locked low-angle for bullet impact at
+4.5s. 24fps throughout, no slow motion. Documentary realism.
+
+STYLE: Hyperreal prison documentary like Bourne Ultimatum (Greengrass
+2007) crossed with A Prophet (Audiard 2009). Hard fluorescent overhead
+as single key light with greenish spill in shadows, warm sunbeam from
+window as dramatic rim from camera-right side, no film stock emulation,
+ISO 1600 grain, no halation, raw unstylized look.
+
+CONSTRAINTS: Avoid Stanisław identity drift from @dziadek.png, Delicje
+package leaving left hand at ANY moment during the entire 5 seconds,
+bloody injury effects (this is rubber bullet + unarmed brawl, no
+blood), choreography looking like 30-year-old action hero (must read
+as 75-year-old economy of movement). Three inmates must look distinct
+from each other (shaved head / dark short hair / bearded). Guard
+uniform must show Służba Więzienna patches and Polish state insignia,
+weapon must be non-lethal rubber-bullet shotgun NOT a standard glock
+or AR-15. The Delicje package position in LEFT hand is the most
+important continuity element of the entire shot.
+
+AUDIO: Echo of concrete prison hall, scattered Polish shouts from
+inmates ("Stanisław!", "Łap go!"), grunts of impact on each strike,
+rubber bullet hits concrete wall with sharp crack, herbatniki package
+crinkles in left hand audibly, prison alarm siren starts at 4-second
+mark, guard shouts "STAĆ!" in Polish at 4.0s with authority,
+fluorescent buzz throughout entire shot. No music. Pure diegetic sound.
